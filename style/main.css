@@ -561,39 +561,56 @@ hr {
         font-size: 5px; } }
   .tile.tile-49152 .tile-inner {
     color: #f9f6f2;
-    background: #edc336;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.51637), inset 0 0 0 1px rgba(255, 255, 255, 0.31902);
+    background: #edc437;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 20px; }
     @media screen and (max-width: 520px) {
       .tile.tile-49152 .tile-inner {
         font-size: 8px; } }
   .tile.tile--49152 .tile-inner {
     color: #f9f6f2;
-    background: #edc336;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.51637), inset 0 0 0 1px rgba(255, 255, 255, 0.31902);
+    background: #edc437;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 16px; }
     @media screen and (max-width: 520px) {
       .tile.tile--49152 .tile-inner {
         font-size: 5px; } }
   .tile.tile-98304 .tile-inner {
     color: #f9f6f2;
-    background: #edc22e;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    background: #edc333;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.6), inset 0 0 0 1px rgba(255, 255, 255, 0.36666);
     font-size: 20px; }
     @media screen and (max-width: 520px) {
       .tile.tile-98304 .tile-inner {
         font-size: 8px; } }
   .tile.tile--98304 .tile-inner {
     color: #f9f6f2;
-    background: #edc22e;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    background: #edc333;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.6), inset 0 0 0 1px rgba(255, 255, 255, 0.36666);
     font-size: 16px; }
     @media screen and (max-width: 520px) {
       .tile.tile--98304 .tile-inner {
         font-size: 5px; } }
+  .tile.tile-196608 .tile-inner {
+    color: #f9f6f2;
+    background: #edc22e;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.65), inset 0 0 0 1px rgba(255, 255, 255, 0.4);
+    font-size: 16px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-196608 .tile-inner {
+        font-size: 5px; } }
+  .tile.tile-393216 .tile-inner {
+    color: #f9f6f2;
+    background: #edc22e;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.65), inset 0 0 0 1px rgba(255, 255, 255, 0.4);
+    font-size: 16px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-393216 .tile-inner {
+        font-size: 5px; } }
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
-    background: #3c3a32;
+    background: #edc22e;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.65), inset 0 0 0 1px rgba(255, 255, 255, 0.4);
     font-size: 16px; }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner {
